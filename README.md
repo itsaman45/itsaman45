@@ -21,7 +21,7 @@ I am a passionate software developer with a strong interest in **Backend Develop
 - 📈 Regular practice of **Medium & Hard problems**
 
 ### 🔗 LeetCode Profile
-[![LeetCode](https://img.shields.io/badge/LeetCode-itsaman45-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/_aman_varma)
+[![LeetCode](https://img.shields.io/badge/LeetCode-_aman_varma-orange?style=for-the-badge&logo=leetcode&logoColor=white)]
 
 **Achievements**
 - ✅ 400+ Problems Solved
