@@ -24,7 +24,7 @@ I am a passionate software developer with a strong interest in **Backend Develop
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/_aman_varma)
 
 **Achievements**
-- ✅ 400+ Problems Solved
+- ✅ 500+ Problems Solved
 - 🟢 Consistent problem-solving streak
 - 🧩 Interview-focused DSA preparation
 
