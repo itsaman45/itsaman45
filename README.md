@@ -15,7 +15,7 @@ I am a passionate software developer with a strong interest in **Backend Develop
 
 ## 🧠 DSA & Competitive Programming
 
-- 🔥 Solved **400+ LeetCode Problems**
+- 🔥 Solved **500+ LeetCode Problems**
 - 🏆 Strong understanding of **Arrays, Strings, Recursion, Linked Lists, Stacks, Queues, Trees, and Graphs**
 - ⚡ Comfortable with **Time & Space Complexity Analysis**
 - 📈 Regular practice of **Medium & Hard problems**
